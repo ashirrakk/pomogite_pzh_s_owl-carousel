@@ -1,0 +1,7 @@
+
+element.style {
+    transform: translate3d(1520px, 0px, 0px);
+    transition: all 5s ease 0s;
+    width: 1520px;
+    height: 1000px;
+}
